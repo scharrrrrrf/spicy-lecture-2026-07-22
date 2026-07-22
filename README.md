@@ -1,2 +1,2 @@
-# spicy-lecture-2026-07-22
-Demoing CI/CD
+# Spicy lecture (2026-07-22)
+Playing around with secrets
